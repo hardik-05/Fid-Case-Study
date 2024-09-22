@@ -1,0 +1,59 @@
+usr/bin/python3 /Users/hardikchoudhary/Documents/Fidelity/code/fund_create.py
+hardikchoudhary@Hardiks-MacBook-Air Documents % /usr/bin/python3 /Users/hardikchoudhary/Documents/Fidelity/code/fund_create.py
+| Fund Name     | Asset Allocation      |   Weighted Risk |   Weighted Return | Weighted Fees        |
+|:--------------|:----------------------|----------------:|------------------:|:---------------------|
+| Risk1_Returns | bonds: 100.00%        |         1       |           4.44    | 1.0%                 |
+| Risk1_Fees    | bonds: 100.00%        |         1       |           4.44    | 0.9999999999999999%  |
+| Risk1_Goal    | bonds: 100.00%        |         1       |           4.44    | 1.0%                 |
+| Risk2_Returns | s&p: 30.43%           |         1.30434 |           5.48998 | 0.8478283725450289%  |
+|               | bonds: 69.57%         |                 |                   |                      |
+| Risk2_Fees    | s&p: 73.20%           |         1.73198 |           6.96533 | 0.634010105054004%   |
+|               | bonds: 26.80%         |                 |                   |                      |
+| Risk2_Goal    | bonds: 44.13%         |         1.55873 |           6.3676  | 0.7206369808257853%  |
+|               | s&p: 55.87%           |                 |                   |                      |
+| Risk3_Returns | us_mid_cap: 64.13%    |         2.53849 |           8.29885 | 0.44901440704016166% |
+|               | s&p: 8.34%            |                 |                   |                      |
+|               | large_cap: 8.63%      |                 |                   |                      |
+|               | bonds: 18.90%         |                 |                   |                      |
+| Risk3_Fees    | large_cap: 31.04%     |         2.86547 |           8.70849 | 0.34206618950647855% |
+|               | us_mid_cap: 60.56%    |                 |                   |                      |
+|               | s&p: 3.35%            |                 |                   |                      |
+|               | bonds: 5.05%          |                 |                   |                      |
+| Risk3_Goal    | bonds: 5.05%          |         2.27957 |           8.26362 | 0.45924686420311855% |
+|               | s&p: 61.94%           |                 |                   |                      |
+|               | us_mid_cap: 33.01%    |                 |                   |                      |
+| Risk4_Returns | us_mid_cap: 8.00%     |         2.88921 |           8.0412  | 0.46497912630616456% |
+|               | us_small_cap: 40.53%  |                 |                   |                      |
+|               | s&p: 38.57%           |                 |                   |                      |
+|               | large_cap: 0.35%      |                 |                   |                      |
+|               | bonds: 8.53%          |                 |                   |                      |
+|               | large_foreign: 4.02%  |                 |                   |                      |
+| Risk4_Fees    | large_cap: 10.95%     |         3.11849 |           5.96349 | 0.6583588771667784%  |
+|               | us_mid_cap: 24.15%    |                 |                   |                      |
+|               | us_small_cap: 12.93%  |                 |                   |                      |
+|               | s&p: 1.08%            |                 |                   |                      |
+|               | bonds: 16.96%         |                 |                   |                      |
+|               | large_foreign: 33.92% |                 |                   |                      |
+| Risk4_Goal    | bonds: 64.61%         |         1.64244 |           6.13991 | 0.7653455220984878%  |
+|               | s&p: 6.53%            |                 |                   |                      |
+|               | us_mid_cap: 28.86%    |                 |                   |                      |
+| Risk5_Returns | us_mid_cap: 13.08%    |         3.29508 |           7.41437 | 0.5308980775952754%  |
+|               | us_small_cap: 40.02%  |                 |                   |                      |
+|               | s&p: 16.28%           |                 |                   |                      |
+|               | large_cap: 4.25%      |                 |                   |                      |
+|               | emerging: 2.76%       |                 |                   |                      |
+|               | bonds: 7.78%          |                 |                   |                      |
+|               | large_foreign: 15.82% |                 |                   |                      |
+| Risk5_Fees    | large_cap: 14.48%     |         2.69348 |           7.00805 | 0.5592628375575042%  |
+|               | us_mid_cap: 7.89%     |                 |                   |                      |
+|               | us_small_cap: 18.25%  |                 |                   |                      |
+|               | s&p: 31.27%           |                 |                   |                      |
+|               | bonds: 15.24%         |                 |                   |                      |
+|               | large_foreign: 12.86% |                 |                   |                      |
+| Risk5_Goal    | bonds: 23.67%         |         2.66608 |           7.17242 | 0.5268814238103404%  |
+|               | s&p: 8.06%            |                 |                   |                      |
+|               | us_mid_cap: 16.06%    |                 |                   |                      |
+|               | large_cap: 30.21%     |                 |                   |                      |
+|               | us_small_cap: 15.57%  |                 |                   |                      |
+|               | large_foreign: 6.44%  |                 |                   |                      |
+hardikchoudhary@Hardiks-MacBook-Air Documents % 
