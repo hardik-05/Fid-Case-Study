@@ -1,0 +1,34 @@
+What technologies would you use to gather, process, store, search, and report for these scenarios?
+--------------------------------------------------------------------------------------------------
+
+Archive millions of emails. Remove sensitive data (passwords, social security numbers, political bribes…)
+
+Read through decades of hospital employee data to see if vocabulary changes predict onset of dementia.
+
+Report team needs to mine years of log files for traffic spike patterns
+
+Monitor tweets and alert me when it is finally time to bring back disco.
+
+Search through terabytes of videos for any that mention your company or display your logo.
+
+Thousands of contracts in Word need to be quickly searchable by date, contract type, amount, and customer
+
+Predict changes in stock value from historic data
+
+Archive a large DB2 database before the server is decommissioned. It must be searchable if needed.
+
+Store audio files for customers but flag any that contain copyrighted material.
+
+Reports are hurting DB server performance. Fix it. Reporting data can be up to 24 hours old 
+
+Store web transaction data.  Changes are happening all the time and reports HAVE to be 100% accurate.
+
+Buffer web form data to prevent traffic spikes from overwhelming DB server
+
+Alert us of irregularities in network traffic that could indicate hacking
+
+Read sensor data and upload it to oracle database every hour 
+
+As new resume files are saved (Word, PDF, etc.) make them searchable by location, education, skills, etc. 
+
+Look through millions of photos. Find ones that have Football Logos

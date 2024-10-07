@@ -1,0 +1,13 @@
+CREATE TABLE MegaCities (
+Name string,
+Type string,
+Address string,
+City string,
+Phone string,
+Capacity int,
+Indoor int
+)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+STORED AS TEXTFILE
+TBLPROPERTIES ("skip.header.line.count"="1");
