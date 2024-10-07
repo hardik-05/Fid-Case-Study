@@ -1,0 +1,16 @@
+Fund Name,bonds,s&p,us_mid_cap,us_small_cap,large_cap,large_foreign,emerging,Weighted Risk,Weighted Return,Weighted Fees
+Risk1_Returns,100.00,null,null,null,null,null,null,1.00,4.44,1.00%
+Risk1_Fees,100.00,null,null,null,null,null,null,1.00,4.44,1.00%
+Risk1_Goal,100.00,null,null,null,null,null,null,1.00,4.44,1.00%
+Risk2_Returns,69.57,30.43,null,null,null,null,null,1.30,5.49,0.85%
+Risk2_Fees,26.80,73.20,null,null,null,null,null,1.73,6.97,0.63%
+Risk2_Goal,44.13,55.87,null,null,null,null,null,1.56,6.37,0.72%
+Risk3_Returns,18.90,8.34,64.13,null,8.63,null,null,2.54,8.30,0.45%
+Risk3_Fees,5.05,3.35,60.56,null,31.04,null,null,2.87,8.71,0.34%
+Risk3_Goal,5.05,61.94,33.01,null,null,null,null,2.28,8.26,0.46%
+Risk4_Returns,8.53,38.57,8.00,40.53,0.35,4.02,null,2.89,8.04,0.46%
+Risk4_Fees,16.96,1.08,24.15,12.93,10.95,33.92,null,3.12,5.96,0.66%
+Risk4_Goal,64.61,6.53,28.86,null,null,null,null,1.64,6.14,0.77%
+Risk5_Returns,7.78,16.28,13.08,40.02,4.25,15.82,2.76,3.30,7.41,0.53%
+Risk5_Fees,15.24,31.27,7.89,18.25,14.48,12.86,null,2.69,7.01,0.56%
+Risk5_Goal,23.67,8.06,16.06,15.57,30.21,6.44,null,2.67,7.17,0.53%
