@@ -1,0 +1,9 @@
+ASSET_CLASS,RISK_PROFILE_ID,ASSET_CLASS_ID
+Bonds,1,1
+Large Cap,3,2
+US Mid Cap,3,3
+US Small Cap,4,4
+Foreign Ex,4,5
+Emerging,5,6
+Commodities,5,7
+Market ETF,2,8
