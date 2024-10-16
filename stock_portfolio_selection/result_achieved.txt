@@ -1,0 +1,32 @@
+create three portfolio based on :
+1) Monte Carlo Simulation
+2) Sharpe Ratio Analysis
+3) Multi - TA Analysis
+
+Constructed 3 portfolio with the following specifics:
+
+1) Performed monte carlo simulation for all 500 stock in S&P 500 to get returns range for each stock.
+- Choosed top 25 stock for the portfolio.
+- The choosed portfolio is equi-weighted.
+- Graph for each stock simulation is saved for reference.
+- a master table has been created which is used for stock returns Analysis
+- Max returns, max drawdown, volatility chart, projected returns is done for the portfolio
+
+2) Choose sharpe ratio for risk adjusted returns to find best suited stocks.
+- created portfolio and did similar analysis as done for portfolio 1
+
+3) Used multiple technical indicator to select best stocks such as SMA, EMA, Bollinger Bands, RSI, ADX, etc
+- Filtered out top 25 stock for the projected stock prices.
+- Calculated portfolio metrics such as max drawdown, max returns, rolling returns, projected returns.
+- use seaborn to perform a principle component analysis for the constructed portfolio.
+- Generated visualisation 
+        [Cumulative returns
+        Drawdown analysis
+        Rolling volatility
+        Rolling Sharpe ratio
+        Correlation heatmap
+        Returns distribution
+        Risk-return scatter plot
+        Rolling beta analysis
+        PCA analysis]
+
