@@ -24,23 +24,3 @@ percent_of_fund = {
 }
 
 # Create the problem variable
-prob = pulp.LpProblem("Maximize_Total_Investment", pulp.LpMaximize)
-
-# Define the decision variable Z (total investable amount)
-Z = pulp.LpVariable("Total_Investable_Amount", lowBound=0, cat="Continuous")
-
-# Constraints: Each individual investable amount (a_i * Z) must be less than or equal to the available amount
-for i in available_amounts.keys():
-    prob += percent_of_fund[i] * Z <= available_amounts[i], f"Max_Investment_in_Asset_Class_{i}"
-
-# Objective function: Maximize Z
-prob += Z, "Maximize_Total_Investment"
-
-# Solve the problem
-prob.solve()
-
-# Print the results
-print(f"Total Maximized Investment (Z): {pulp.value(prob.objective)}")
-for i in available_amounts.keys():
-    print(f"Investable Amount in Asset Class {i} = {percent_of_fund[i] * pulp.value(prob.objective)}")
-
